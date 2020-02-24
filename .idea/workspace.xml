@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90d9247d-f716-4b71-af0d-ac140abbdb2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YETasqVRYGa0gWe3avMxkikl0t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nocompositepattern" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compositepattern.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compositepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90d9247d-f716-4b71-af0d-ac140abbdb2c" name="Default Changelist" comment="" />
+      <created>1582506821378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582506821378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="205" key="#Project_Structure" timestamp="1582506863055">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="496" y="205" key="#Project_Structure/0.23.1792.1031@0.23.1792.1031" timestamp="1582506863055" />
+    <state x="709" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1582515354288">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="709" y="256" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1582515354288" />
+    <state x="571" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582515179312">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="571" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1582515179312" />
+    <state width="1742" height="274" key="GridCell.Tab.0.bottom" timestamp="1582515471318">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1742" height="274" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1582515471318" />
+    <state width="1742" height="274" key="GridCell.Tab.0.center" timestamp="1582515471317">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1742" height="274" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1582515471317" />
+    <state width="1742" height="274" key="GridCell.Tab.0.left" timestamp="1582515471316">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1742" height="274" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1582515471316" />
+    <state width="1742" height="274" key="GridCell.Tab.0.right" timestamp="1582515471317">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1742" height="274" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1582515471317" />
+    <state x="397" y="157" key="SettingsEditor" timestamp="1582515957211">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="397" y="157" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1582515957211" />
+    <state x="573" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1582506829786">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="573" y="371" key="com.intellij.ide.util.TipDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1582506829786" />
+    <state x="561" y="252" key="search.everywhere.popup" timestamp="1582507174664">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="561" y="252" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1582507174664" />
+  </component>
+</project>
